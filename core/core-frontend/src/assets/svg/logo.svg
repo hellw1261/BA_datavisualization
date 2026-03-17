@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="134" height="34" viewBox="0 0 134 34">
+  <!-- 背景透明 -->
+  <rect width="134" height="34" fill="none"/>
+
+  <!-- 字母 BA -->
+  <text x="0" y="24" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#FFFFFF">BA</text>
+
+  <!-- 空格 -->
+  <text x="34" y="24" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="none"> </text>
+
+  <!-- 字母 DATAV -->
+  <text x="44" y="24" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#FFFFFF">DATAV</text>
+</svg>

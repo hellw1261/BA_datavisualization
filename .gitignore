@@ -1,0 +1,44 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+.idea/
+target/
+.vscode/
+.lh/
+*.iml
+hs_err_pid*
+node_modules/
+dist/
+package-lock.json
+.DS_Store
+.stylelintcache
+core/core-frontend/release/
+plugins/vite-test
+.flattened-pom.xml
+/core/mobile/
+/sdk/dataease-plugin-common/
+/sdk/dataease-plugin-datasource/
+/sdk/dataease-plugin-filter/
+/sdk/dataease-plugin-interface/
+/sdk/dataease-plugin-view/
+/extensions/
+.vite/
+/core/backend/
+/classpath:substitule.json
